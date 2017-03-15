@@ -1,0 +1,14 @@
+SolidBrush s = new SolidBrush(toolStripButton1.ForeColor);
+Pen p = new Pen(s, trackBar1.Value);
+g.DrawEllipse(p, rec(mold, mocur));
+
+
+private Rectangle rec(Point p1, Point p2) 
+  {
+    Rectangle a = new Rectangle();
+    a.X = (p1.X > p2.X ? p2.X : p1.X);
+    a.Y = (p1.Y > p2.Y ? p2.Y : p1.Y);
+    a.Width = Math.Abs(p1.X - p2.X);
+    a.Height = Math.Abs(p1.Y - p2.Y); 
+    return a; 
+  }

@@ -1,0 +1,387 @@
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\xenodoxeiopagou.mp3
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\καλώςήρθατε!.mp3
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\booking.jpg
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\cafebarrestaurant.jpg
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\fond_ecran_2_1280x1024.jpg
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\test1.exe.config
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\test1.exe
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\test1.pdb
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\lobby.baml
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\CafeBarRestaund.baml
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\MainWindow.baml
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\lobby.g.cs
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\Booking.g.cs
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\CafeBarRestaund.g.cs
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\MainWindow.g.cs
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\App.g.cs
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1_Content.g.cs
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1_MarkupCompile.cache
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1_MarkupCompile.lref
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\Booking.baml
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.g.resources
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.exe
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.pdb
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\ResourceDictionary1.baml
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\App.baml
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\aplodwmatio.baml
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\aplodwmatio.g.cs
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\cafebar.baml
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\dwmatioslux.baml
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\cafebar.g.cs
+C:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\dwmatioslux.g.cs
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\xenodoxeiopagou.mp3
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\καλώςήρθατε!.mp3
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\booking.jpg
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\cafebarrestaurant.jpg
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\fond_ecran_2_1280x1024.jpg
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\test1.exe.config
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\test1.exe
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\test1.pdb
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\Microsoft.Expression.Effects.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\System.Windows.Interactivity.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\aplodwmatio.baml
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\cafebar.baml
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\CafeBarRestaund.baml
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\dwmatioslux.baml
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\lobby.baml
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\MainWindow.baml
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\ResourceDictionary1.baml
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\App.baml
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\aplodwmatio.g.cs
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\Booking.g.cs
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\cafebar.g.cs
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\CafeBarRestaund.g.cs
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\dwmatioslux.g.cs
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\lobby.g.cs
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\MainWindow.g.cs
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\App.g.cs
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1_Content.g.cs
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1_MarkupCompile.cache
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1_MarkupCompile.lref
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\Booking.baml
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.g.resources
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.Properties.Resources.resources
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.exe
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\obj\Debug\test1.pdb
+E:\Users\Blakys\Documents\Visual Studio 2013\Projects\test1\test1\bin\Debug\Pingu- Igloo Adventures - Clip.mp4
+G:\test1_Copy1.1\test1\bin\Debug\Pingu- Igloo Adventures - Clip.mp4
+G:\test1_Copy1.1\test1\bin\Debug\xenodoxeiopagou.mp3
+G:\test1_Copy1.1\test1\bin\Debug\καλώςήρθατε!.mp3
+G:\test1_Copy1.1\test1\bin\Debug\booking.jpg
+G:\test1_Copy1.1\test1\bin\Debug\cafebarrestaurant.jpg
+G:\test1_Copy1.1\test1\bin\Debug\fond_ecran_2_1280x1024.jpg
+G:\test1_Copy1.1\test1\bin\Debug\test1.exe.config
+G:\test1_Copy1.1\test1\bin\Debug\test1.exe
+G:\test1_Copy1.1\test1\bin\Debug\test1.pdb
+G:\test1_Copy1.1\test1\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\test1_Copy1.1\test1\bin\Debug\Microsoft.Expression.Effects.dll
+G:\test1_Copy1.1\test1\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\test1_Copy1.1\test1\bin\Debug\System.Windows.Interactivity.dll
+G:\test1_Copy1.1\test1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+G:\test1_Copy1.1\test1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+G:\test1_Copy1.1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+G:\test1_Copy1.1\test1\obj\Debug\aplodwmatio.baml
+G:\test1_Copy1.1\test1\obj\Debug\cafebar.baml
+G:\test1_Copy1.1\test1\obj\Debug\CafeBarRestaund.baml
+G:\test1_Copy1.1\test1\obj\Debug\dwmatioslux.baml
+G:\test1_Copy1.1\test1\obj\Debug\lobby.baml
+G:\test1_Copy1.1\test1\obj\Debug\MainWindow.baml
+G:\test1_Copy1.1\test1\obj\Debug\ResourceDictionary1.baml
+G:\test1_Copy1.1\test1\obj\Debug\App.baml
+G:\test1_Copy1.1\test1\obj\Debug\aplodwmatio.g.cs
+G:\test1_Copy1.1\test1\obj\Debug\Booking.g.cs
+G:\test1_Copy1.1\test1\obj\Debug\cafebar.g.cs
+G:\test1_Copy1.1\test1\obj\Debug\CafeBarRestaund.g.cs
+G:\test1_Copy1.1\test1\obj\Debug\dwmatioslux.g.cs
+G:\test1_Copy1.1\test1\obj\Debug\lobby.g.cs
+G:\test1_Copy1.1\test1\obj\Debug\MainWindow.g.cs
+G:\test1_Copy1.1\test1\obj\Debug\App.g.cs
+G:\test1_Copy1.1\test1\obj\Debug\test1_Content.g.cs
+G:\test1_Copy1.1\test1\obj\Debug\test1_MarkupCompile.cache
+G:\test1_Copy1.1\test1\obj\Debug\test1_MarkupCompile.lref
+G:\test1_Copy1.1\test1\obj\Debug\Booking.baml
+G:\test1_Copy1.1\test1\obj\Debug\test1.g.resources
+G:\test1_Copy1.1\test1\obj\Debug\test1.Properties.Resources.resources
+G:\test1_Copy1.1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+G:\test1_Copy1.1\test1\obj\Debug\test1.exe
+G:\test1_Copy1.1\test1\obj\Debug\test1.pdb
+F:\test1_Copy1_Copy1\test1\bin\Debug\test1.exe.config
+F:\test1_Copy1_Copy1\test1\obj\Debug\test1.exe
+F:\test1_Copy1_Copy1\test1\obj\Debug\test1.pdb
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\Pingu- Igloo Adventures - Clip.mp4
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\xenodoxeiopagou.mp3
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\καλώςήρθατε!.mp3
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\booking.jpg
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\cafebarrestaurant.jpg
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\fond_ecran_2_1280x1024.jpg
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\test1.exe.config
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\test1.exe
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\test1.pdb
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\aplodwmatio.baml
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\cafebar.baml
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\CafeBarRestaund.baml
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\dwmatioslux.baml
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\lobby.baml
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\MainWindow.baml
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\ResourceDictionary1.baml
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\App.baml
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\aplodwmatio.g.cs
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\Booking.g.cs
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\cafebar.g.cs
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\CafeBarRestaund.g.cs
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\dwmatioslux.g.cs
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\lobby.g.cs
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\MainWindow.g.cs
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\App.g.cs
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\test1_Content.g.cs
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\test1_MarkupCompile.cache
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\test1_MarkupCompile.lref
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\Booking.baml
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\test1.g.resources
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\test1.exe
+C:\Users\Blakys\Desktop\IGloo\test1\obj\Debug\test1.pdb
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\test1.exe.config
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\test1.exe
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\test1.pdb
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\Pingu- Igloo Adventures - Clip.mp4
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\xenodoxeiopagou.mp3
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\καλώςήρθατε!.mp3
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\booking.jpg
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\cafebarrestaurant.jpg
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\fond_ecran_2_1280x1024.jpg
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\test1.exe
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\test1.pdb
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\aplodwmatio.baml
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\cafebar.baml
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\CafeBarRestaund.baml
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\dwmatioslux.baml
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\lobby.baml
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\MainWindow.baml
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\ResourceDictionary1.baml
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\App.baml
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\aplodwmatio.g.cs
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\Booking.g.cs
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\cafebar.g.cs
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\CafeBarRestaund.g.cs
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\dwmatioslux.g.cs
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\lobby.g.cs
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\MainWindow.g.cs
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\App.g.cs
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\test1_Content.g.cs
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\test1_MarkupCompile.cache
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\test1_MarkupCompile.lref
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\Booking.baml
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\test1.g.resources
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\Blakys\Dropbox\sxolh\IGloo\IGloo\test1\obj\Debug\test1.csproj.GenerateResource.Cache

@@ -1,0 +1,60 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="test1.dwmatioslux"
+	x:Name="Window"
+	Title="Ice Hotel"
+	Width="1024" Height="768" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="igloo.png">
+	<Window.Resources>
+		<Storyboard x:Key="OnMouseLeftButtonDown1">
+			<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="image1">
+				<DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Visible}"/>
+			</ObjectAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="OnMouseLeftButtonDown_Copy1">
+			<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="image1">
+				<DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Hidden}"/>
+			</ObjectAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="Pingu__Igloo_Adventures___Clip_mp4">
+			<MediaTimeline Source="Pingu- Igloo Adventures - Clip.mp4" Storyboard.TargetName="Pingu__Igloo_Adventures___Clip_mp4" d:DesignTimeNaturalDuration="128"/>
+		</Storyboard>
+		<Storyboard x:Key="tvstart">
+			<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="Pingu__Igloo_Adventures___Clip_mp4">
+				<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+			</ObjectAnimationUsingKeyFrames>
+			<BooleanAnimationUsingKeyFrames Storyboard.TargetProperty="(MediaElement.IsMuted)" Storyboard.TargetName="Pingu__Igloo_Adventures___Clip_mp4">
+				<DiscreteBooleanKeyFrame KeyTime="0" Value="False"/>
+			</BooleanAnimationUsingKeyFrames>
+		</Storyboard>
+	</Window.Resources>
+	<Window.Triggers>
+		<EventTrigger RoutedEvent="UIElement.MouseLeftButtonDown" SourceName="image">
+			<BeginStoryboard Storyboard="{StaticResource OnMouseLeftButtonDown1}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="UIElement.MouseLeftButtonDown" SourceName="image1">
+			<BeginStoryboard x:Name="OnMouseLeftButtonDown_Copy1_BeginStoryboard" Storyboard="{StaticResource OnMouseLeftButtonDown_Copy1}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="FrameworkElement.Loaded">
+			<BeginStoryboard x:Name="Pingu__Igloo_Adventures___Clip_mp4_BeginStoryboard" Storyboard="{StaticResource Pingu__Igloo_Adventures___Clip_mp4}"/>
+			<PauseStoryboard BeginStoryboardName="Pingu__Igloo_Adventures___Clip_mp4_BeginStoryboard"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="UIElement.MouseLeftButtonDown" SourceName="image2">
+			<BeginStoryboard x:Name="tvstart_BeginStoryboard" Storyboard="{StaticResource Pingu__Igloo_Adventures___Clip_mp4}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="UIElement.MouseLeftButtonDown" SourceName="label">
+			<PauseStoryboard BeginStoryboardName="Pingu__Igloo_Adventures___Clip_mp4_BeginStoryboard"/>
+		</EventTrigger>
+	</Window.Triggers>
+
+	<Grid x:Name="LayoutRoot">
+		<Image Source="futureancestors_11-1140x760.jpg" Stretch="Fill" Margin="-1.333,-0.5,1.333,0.5"/>
+		<Image x:Name="image" Margin="454.5,39.167,457.5,497.833" Source="lightlux.png" Stretch="Fill" Cursor="Hand"/>
+		<Image x:Name="image1" Margin="295,195.5,305,126.5" Source="light1.png" Stretch="Fill" Opacity="0.365" Visibility="Hidden" Cursor="Hand"/>
+		<MediaElement x:Name="Pingu__Igloo_Adventures___Clip_mp4" Margin="742.333,518.334,178.334,148.166" Stretch="Fill"/>
+		<Image x:Name="image2" Margin="737,507.5,150.5,139.145" Source="tv.png" Stretch="Fill" Cursor="Hand" SnapsToDevicePixels="True"/>
+		<Label x:Name="label" Content="&#xD;&#xA;OFF&#xD;&#xA;" HorizontalAlignment="Left" Margin="830.5,536.5,0,0" VerticalAlignment="Top" Height="69.293" Width="28.91" FontSize="8" FontWeight="Bold" Cursor="Hand"/>
+		<Image Margin="102,592,802.588,61.845" Source="arrowback.png" Stretch="Fill" MouseDown="Image_MouseDown" Cursor="Hand"/>
+	</Grid>
+</Window>

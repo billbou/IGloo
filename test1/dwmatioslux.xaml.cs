@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
+
+namespace test1
+{
+	/// <summary>
+	/// Interaction logic for dwmatioslux.xaml
+	/// </summary>
+	public partial class dwmatioslux : Window
+	{
+		public dwmatioslux()
+		{
+			this.InitializeComponent();
+			
+			// Insert code required on object creation below this point.
+		}
+
+		private void pisw_Click(object sender, System.Windows.RoutedEventArgs e)
+		{
+			lobby lo = new lobby();
+			lo.Show();
+            this.Close();
+		}
+
+		private void Image_MouseDown(object sender, System.Windows.Input.MouseButtonEventArgs e)
+		{
+			lobby lo = new lobby();
+			lo.Show();
+            this.Close();
+			// TODO: Add event handler implementation here.
+		}
+	}
+}
